@@ -60,7 +60,7 @@ h1, h2, h3 {
 
 /* Hero Section */
 .hero {
-    background: url('images/era.jpeg') no-repeat center center/cover;
+    background: url('images/86.png') no-repeat center center/cover;
     height: 60vh;
     display: flex;
     justify-content: center;
